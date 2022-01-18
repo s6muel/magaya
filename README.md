@@ -1,0 +1,2 @@
+# magaya
+https://magaya.org

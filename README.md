@@ -7,7 +7,7 @@ An Australian based Matrix instance for you to communicate and collaborate with 
 
 Welcome to our public repository. This will house all of Magaya's guides for public review and community contributions. We think this is the best way to consistently improve.
 
-The folder structure represents the same structure as used on [Magaya.org](https://magaya.org/docs/get-started/introduction).
+The folder structure represents the same structure as used on [Magaya.org](https://magaya.org/docs/get-started/introduction/).
 
 ## Thank you
 

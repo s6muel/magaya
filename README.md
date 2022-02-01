@@ -1,5 +1,5 @@
 # Magaya.org
-> A state of peace, freedom from hostilities, and true justice for all."
+> *"A state of peace, freedom from hostilities, and true justice for all."*
 
 An Australian based Matrix instance for you to communicate and collaborate with friends, family, and colleagues. All while maintaining your privacy and security. Magaya is both a Matrix instance and an educational service. Our goal is to connect the community, and to educate every person along the way.
 
